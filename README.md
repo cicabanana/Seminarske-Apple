@@ -1,0 +1,1 @@
+# Seminarske-Apple
