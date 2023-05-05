@@ -1,2 +1,2 @@
 # Seminarske-Apple
-https://github.com/cicabanana/Seminarske-Apple.git
+https://cicabanana.github.io/Seminarske-Apple/
